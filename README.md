@@ -1,5 +1,7 @@
 # Watch-a-Movie
 
+A simple movie showcase powered by OMDb API, please access it here: https://watch-a-movie.vercel.app/
+
 ## Prerequisites
 
 Before running this project, ensure you have the following installed:
